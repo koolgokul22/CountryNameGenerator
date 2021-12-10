@@ -1,0 +1,27 @@
+
+
+.title{
+    text-align: center;
+    font-size: 5rem;
+    color: rgb(12, 46, 46);
+    margin-bottom: 2.5%;
+    background:linear-gradient(rgba(132, 225, 232,0.2), rgba(161, 225, 230,0.5));
+    border-radius: 20px;
+}
+
+p{
+    color:rgb(0, 0, 0);
+}
+
+.text-center-two{
+    margin-top: 15%;
+    text-align: center;
+    background:linear-gradient(rgba(132, 225, 232,0.2), rgba(161, 225, 230,0.5));
+    border-radius: 20px;
+    width: auto;
+}
+
+button:hover{
+    box-shadow: 0 5px 5px black;
+
+}
